@@ -47,9 +47,7 @@ if table:
     
     # Create a pandas DataFrame
     df = pd.DataFrame(data, columns=headers)
-    print("\n" + "="*80)
     print("First 10 rows of the Forbes 2025 list:")
-    print("="*80)
     print(df.head(10))
     
     # Save to CSV
@@ -57,7 +55,7 @@ if table:
     print(f"\n✓ Data saved to 'forbes_2025_india.csv' with {len(df)} rows")
     
 else:
-    print("❌ Table not found!")
+    print("Table not found!")
     # Debug: Print all table classes found
     for i, tbl in enumerate(tables):
         print(f"Table {i}: class = {tbl.get('class', 'No class')}")
