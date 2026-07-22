@@ -14,18 +14,8 @@ This project is intended for educational purposes and demonstrates fundamental w
 
 The extracted dataset contains the following attributes:
 
-| Column |
-|---------|
-| Rank |
-| Forbes 2000 Rank |
-| Name |
-| Headquarters |
-| Revenue (Billions US$) |
-| Profit (Billions US$) |
-| Assets (Billions US$) |
-| Value (Billions US$) |
-| Industry |
-
+| Rank | Forbes 2000 Rank | Name | Headquarters | Revenue (Billions US$) | Profit (Billions US$) | Assets (Billions US$) | Value (Billions US$) | Industry |
+|------|-------------------|------|--------------|-------------------------|------------------------|------------------------|----------------------|----------|
 ---
 
 ## Technologies Used
@@ -131,7 +121,7 @@ https://en.wikipedia.org/wiki/List_of_largest_companies_in_India
 
 **Sulendra**
 
-GitHub: https://www.linkedin.com/in/sulendra-kumar-728782278/
+Linkedin: https://www.linkedin.com/in/sulendra-kumar-728782278/
 
 ---
 
